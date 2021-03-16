@@ -1,2 +1,3 @@
-# maximum_subarray_sum_ruby
+# Ruby exercise
 Maximum subarray sum | Ruby
+Permutations
